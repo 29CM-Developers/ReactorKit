@@ -1,3 +1,7 @@
+Carthage 지원을 위해 fork 해 사용중입니다.
+
+---
+
 <img alt="ReactorKit" src="https://cloud.githubusercontent.com/assets/931655/25277625/6aa05998-26da-11e7-9b85-e48bec938a6e.png" style="max-width: 100%">
 
 <p align="center">
